@@ -1,0 +1,28 @@
+{
+  "cogs": [
+    [
+      "administrative",
+      "red"
+    ],
+    [
+      "scp_information",
+      "cyan"
+    ],
+    [
+      "general_use",
+      "magenta"
+    ],
+    [
+      "listeners",
+      "yellow"
+    ]
+  ],
+  "server_welcomes": {
+    "688235560321548328": "[USER] CONNECTED",
+    "677689511525875715": "Welcome, [USER]!"
+  },
+  "server_goodbyes": {
+    "688235560321548328": "[USER] DISCONNECTED",
+    "677689511525875715": "Goodbye, [USER]."
+  }
+}
