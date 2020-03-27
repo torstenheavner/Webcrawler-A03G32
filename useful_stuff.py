@@ -5,6 +5,7 @@ from datetime import *
 from termcolor import colored
 import discord
 
+
 def clear(): return os.system("cls")
 
 
